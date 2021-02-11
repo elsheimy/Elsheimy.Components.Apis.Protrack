@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Mohammad Elsheimy</Authors>
+    <Product>Elsheimy.Components.Apis</Product>
+    <PackageProjectUrl>https://github.com/elsheimy/Elsheimy.Components.Apis.Protrack</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/elsheimy/Elsheimy.Components.Apis.Protrack</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>
