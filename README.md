@@ -5,3 +5,7 @@ This project is a C# wrapper around Protrack API; one of the well-known web-base
 A full explanation and discussion of this API can be found here:
 <https://justlikemagic.home.blog/2019/07/15/accessing-protrack-api-an-object-oriented-approach/>
 
+## NuGet
+
+This package is also available on NuGet here:
+<https://www.nuget.org/packages/Elsheimy.Components.Apis.Protrack>
